@@ -7549,7 +7549,7 @@
                             className: "sidelogo img-fluid img_src"
                         }), (0, te.jsx)("span", {
                             className: "text",
-                            children: "Maticz"
+                            children: "Skillsmedia"
                         })]
                     }), (0, te.jsxs)(G, {
                         to: "/",
